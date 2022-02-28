@@ -1,0 +1,984 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The chiefe grounds of Christian religion, set down by way of catechizing. Gathered long since for the use of an honourable family. By Ezekiel Rogers, minister of Gods word, sometime of Rowly in York-shire, now in New-England.</title>
+            <author>Rogers, Ezekiel, 1584?-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91930</idno>
+            <idno type="STC">Wing R1801</idno>
+            <idno type="STC">Thomason E1186_16</idno>
+            <idno type="STC">ESTC R208235</idno>
+            <idno type="EEBO-CITATION">99867201</idno>
+            <idno type="PROQUEST">99867201</idno>
+            <idno type="VID">119503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119503)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1186[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The chiefe grounds of Christian religion, set down by way of catechizing. Gathered long since for the use of an honourable family. By Ezekiel Rogers, minister of Gods word, sometime of Rowly in York-shire, now in New-England.</title>
+                  <author>Rogers, Ezekiel, 1584?-1661.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.L. for Christopher Meredith, at the sign of the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "may. 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119503:1" rendition="simple:additions"/>
+            <p>THE CHIEF GROUNDS OF Chriſtian Religion, Set down by way of Cate<g ref="char:EOLhyphen"/>chizing.</p>
+            <p>Gathered long ſince for the uſe of an Honourable Family.</p>
+            <p>By EZEKIEL ROGERS, Miniſter of Gods Word, ſometime of <hi>Rowly</hi> in
+<hi>York-ſhire,</hi> now in <hi>New-England.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>GEN. 18.17, 19.</hi>
+               </bibl>
+               <p>Shall I hide from <hi>Abraham</hi> that thing which I do? for I know him, that he will com<g ref="char:EOLhyphen"/>mand his ſons and his houſhold after him, that they keep the way of the Lord.</p>
+            </q>
+            <p>LONDON, Printed by <hi>I. L.</hi> for <hi>Chriſtopher Meredith,</hi> at the ſign of the
+<hi>Crane</hi> in <hi>Pauls</hi> Church-yard, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:119503:2"/>
+            <pb facs="tcp:119503:2"/>
+            <head>THE CHIEF GROUNDS OF Chriſtian Religion.</head>
+            <p>
+               <label>Queſtion.</label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>Herefore hath God given to man a reaſonable, and an im<g ref="char:EOLhyphen"/>mortall ſoul?</hi>
+            </p>
+            <p>
+               <label>A.</label> That he above all other creatures ſhould ſeek Gods glory, and his own ſalvation.<note place="margin">Eccl. 12.13.</note>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Where is he taught how this is to be done?</hi>
+            </p>
+            <p>
+               <label>A.</label> In the Scriptures, or Word of God.<note place="margin">Io. 5.39.
+<hi>Scriptures.</hi>
+               </note>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What are the Scriptures?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Canonicall books of the Old and New-Teſtament.<note place="margin">2 Pet. 1.21.</note>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What do the Scriptures teach us?</hi>
+            </p>
+            <p>
+               <label>A.</label> The true knowledge of<note n="a" place="margin">Io. 17.3.</note> God, and of<note n="b" place="margin">Reve. 3.17. <hi>God.</hi>
+               </note> ourſelves.</p>
+            <p>
+               <hi>The firſt generall head; of God.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is God?</hi>
+            </p>
+            <p>
+               <label>A.</label> God is<note n="c" place="margin">1 Cor. 8.6</note> one holy<note n="d" place="margin">Io. 4.24.</note> Spirit, having<note n="e" place="margin">Exo. 3.14.</note> being of himſelfe.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is the nature of God further made known to us?</hi>
+            </p>
+            <p>
+               <label>A.</label> By his<note n="f" place="margin">Exo. 34.6.</note> properties<note n="g" place="margin">Rom. 1.20.</note> and workes.</p>
+            <p>
+               <pb n="2" facs="tcp:119503:3"/>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roperties.</note>
+               <hi>Q Which be his chief properties</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="a" place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kings 8.27.</note> Infiniteneſſe,<note n="b" place="margin">Pſal. 90.2.</note> Eternity,<note n="c" place="margin">Pſal. 90.2.27.</note> Unchan<g ref="char:EOLhyphen"/>geableneſſe: To which may be added his Underſtanding, Will, and Power.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many perſons be there in the God<g ref="char:EOLhyphen"/>head?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rſons.</hi> Joh.
+5.7.</note>
+               <hi>A.</hi> Three, the Father, Son, and Holy Ghoſt.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>If every perſon be God, then there be three Gods?</hi>
+            </p>
+            <p>
+               <label>A.</label> Every perſon is that one, and the ſame God.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orks.</note>Q. <hi>Which be the works of God?</hi>
+            </p>
+            <p>
+               <label>A.</label> His Decree, and the fulfilling thereof.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecree.</note>Q. <hi>What is the Decree of God?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h.
+1.11.</note>
+               <hi>A.</hi> His purpoſe or appointment with himſelf, how all things ſhould be, before any thing was made.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is his Decree concerning Angels and Men?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>edeſtination.</note>
+               <hi>A.</hi> That which the Scripture calleth Pre<g ref="char:EOLhyphen"/>deſtination.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Which be the parts of it?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ction.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>robation.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 9.13, 22.</note>
+               <hi>A.</hi> Election and Reprobation.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How hath God fulfilled this Decree?</hi>
+            </p>
+            <p>
+               <label>A.</label> By creation and providence.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What was the Creation?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ation.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 1.16.</note>
+               <hi>A.</hi> The makeing of all things of nothing, very good.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is his Providence?</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ovidence.</note>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:119503:3"/>
+               <hi>A.</hi> The<note n="a" place="margin">Joh. 5.17. Math. 10.29.</note> upholding and <hi>b</hi> governing of that which he had made.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Concerning the reaſonable Creatures, Firſt, how did God govern the Angels?</hi>
+               <note place="margin">
+                  <hi>Angels.</hi> 2 Pet. 2.4.</note>
+            </p>
+            <p>
+               <label>A.</label> By teaching them all; by leaving the evill to themſelves, and confirming the E<g ref="char:EOLhyphen"/>lect.<note place="margin">1 Tim. 5.21.</note>
+            </p>
+            <p>
+               <hi>The ſecond generall Head, of Man.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth the Scripture teach us con<g ref="char:EOLhyphen"/>cerning Man?</hi>
+               <note place="margin">Man.</note>
+            </p>
+            <p>
+               <label>A.</label> His fourfold eſtate, of innocency,<note place="margin">His fourfold eſtate.</note> miſery, grace and immortality.</p>
+            <p>
+               <hi>The firſt Eſtate,</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVherein conſiſted mans innocencie?</hi>
+               <note place="margin">
+                  <hi>Innocency.</hi> Gen. 1.27.</note>
+            </p>
+            <p>
+               <label>A.</label> That he was created in <hi>Adam</hi> accor<g ref="char:EOLhyphen"/>ding to Gods Image.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat was this Image of God?</hi>
+               <note place="margin">
+                  <hi>Image of God</hi> Col. 3.10.</note>
+            </p>
+            <p>
+               <label>A.</label> A likeneſſe to God in his holy pro<g ref="char:EOLhyphen"/>perties.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What priviledge had man hereby?</hi>
+               <note place="margin">Happineſſe.</note>
+            </p>
+            <p>
+               <label>A.</label> All inward and outward happineſſe.</p>
+            <p>
+               <hi>Q. How did God govern man in this eſtate?</hi>
+            </p>
+            <p>
+               <label>A.</label> By<note n="c" place="margin">Gen. 2.26.</note> teaching him, and making a Co<g ref="char:EOLhyphen"/>venant with him.</p>
+            <p>
+               <hi>Q. What was that Covenant?</hi>
+               <note place="margin">
+                  <hi>Covenant of Nature.</hi> Gal.
+3.12.</note>
+            </p>
+            <p>
+               <label>A.</label> Do this and thou ſhalt live.</p>
+            <p>
+               <hi>The ſecond estate, of miſery.</hi>
+            </p>
+            <p>
+               <hi>Q. Did man continue in this happineſſe and Covenant?</hi>
+               <note place="margin">Miſery.</note>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:119503:4"/>
+               <note place="margin">Fall.</note>
+               <hi>A.</hi> No, for he fell away from God.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 3.23.</note>Q. <hi>How came this to paſſe?</hi>
+            </p>
+            <p>
+               <label>A.</label> Being left of God to the liberty of his will,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en. 3.1. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dams ſin.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en 3.7.</note> through his own weakneſſe, he was overcome by Satans temptation.</p>
+            <p>
+               <hi>Q. What was</hi> Adams <hi>ſinne?</hi>
+            </p>
+            <p>
+               <label>A.</label> Diſobedience againſt God, in eating the forbidden fruit.</p>
+            <p>
+               <hi>Q. What followed hereupon?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uniſhment.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 8.20.</note>
+               <hi>A.</hi> A miſerable condition on himſelfe, and all the creatures.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What upon himſelf?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="a" place="margin">Rom. 3.23.</note> Loſſe of Gods Image;<note n="b" place="margin">Gen. 3.8.</note> guiltineſſe of conſcience;<note n="c" place="margin">Rom.
+5.12.</note> death temporall, and eter<g ref="char:EOLhyphen"/>nall.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Came this only from</hi> Adam?</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om.
+5.18.</note>
+               <hi>A.</hi> No, all we being in his loyns, were partakers of his ſin and puniſhment.</p>
+            <p>
+               <note place="margin">Sin.</note>Q. <hi>Shew now what is ſin?</hi>
+            </p>
+            <p>
+               <note place="margin">Ioh. 3.4.</note>
+               <hi>A.</hi> Every tranſgreſſion or ſwerving from the Law.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many ſorts of ſins are there?</hi>
+            </p>
+            <p>
+               <label>A.</label> Two, Originall and Actuall.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riginall ſin.</note>Q.
+<hi>What is Originall ſin?</hi>
+            </p>
+            <p>
+               <label>A.</label> The corruption or ſtain of our nature, wherein we were born.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What elſe is contained in it?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="a" place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal. 51.5. Heb. 7.9.</note> Guiltineſſe of <hi>Adams</hi> ſin,<note n="b" place="margin">Rom. 7.14. Rom. 7.7.</note> prone<g ref="char:EOLhyphen"/>neſſe to all evill, and concupiſcence.</p>
+            <p>
+               <note place="margin">Actuall ſin.</note>Q. <hi>What is actuall ſin?</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:119503:4"/>
+               <hi>A.</hi> The fruit of originall, in evill thoughts,<note place="margin">Iam.
+1.15. Mat. 15.19.</note> words, and deeds.</p>
+            <p>
+               <hi>Q. Are we able to beare or avoid that fear<g ref="char:EOLhyphen"/>full puniſhment of ſin?</hi>
+            </p>
+            <p>
+               <label>A.</label> No, nor any meer creature for us.<note place="margin">Acts. 4.12.
+<hi>Grace.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>The third eſtate of Grace.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Is there no means to come out of this mi<g ref="char:EOLhyphen"/>ſery, and to be reconciled to God?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes,<note n="d" place="margin">Iohn. 3.16.</note> God of his mercy hath found out a meanes, by making a<note n="e" place="margin">Gal. 3.17. <hi>Covenant of Grace.</hi> Col.
+1.20.</note> new Covenant with us, in Ieſus Chriſt.</p>
+            <p>
+               <hi>Q. Is it the ſame Covenant in the Old and New Teſtament?</hi>
+            </p>
+            <p>
+               <label>A.</label> The ſame for ſubſtance,<note place="margin">Heb. 1.1.</note> but divers for manner of revealing.</p>
+            <p>
+               <hi>Q. What was this Jeſus Chriſt?</hi>
+               <note place="margin">Chriſt.</note>
+            </p>
+            <p>
+               <label>A.</label> Both<note n="a" place="margin">Rom. 14. <hi>His Natures.</hi>
+               </note> God and man, in one Perſon.</p>
+            <p>
+               <hi>Q. Why muſt he be both God and man?</hi>
+            </p>
+            <p>
+               <label>A.</label> Man, that in<note n="b" place="margin">Rom. 1.3.</note> our own nature he might<note n="c" place="margin">Col. 2.9.</note> ſuffer; and God, that he might<note n="d" place="margin">Heb. 2.16.</note> overcome death for us.<note n="e" place="margin">Prov. 14.</note>
+            </p>
+            <p>
+               <hi>Q. What is his office?</hi>
+               <note n="f" place="margin">Heb. 7.25, <hi>Office.</hi>
+               </note>
+            </p>
+            <p>
+               <label>A.</label> To be<note n="g" place="margin">Heb. 9.15.</note> Mediator between God and Man.</p>
+            <p>
+               <hi>Q. Which be the parts of his office?</hi>
+            </p>
+            <p>
+               <label>A.</label> That he is our Prophet, Prieſt, and King.</p>
+            <p>
+               <hi>Q. How is he our Prophet?</hi>
+               <note place="margin">
+                  <hi>Propheticall.</hi> Joh. 15.15. Heb.
+1.2.</note>
+            </p>
+            <p>
+               <label>A.</label> By revealing to us the will of his Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <pb n="6" facs="tcp:119503:5"/>
+               <note place="margin">
+                  <hi>Prieſtly.</hi> Rev. 5.9.</note>Q. <hi>How is he our Prieſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> By working the merit of our Re<g ref="char:EOLhyphen"/>demption.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How wrought he it?</hi>
+            </p>
+            <p>
+               <label>A.</label> In the two-fold eſtate of his humili<g ref="char:EOLhyphen"/>ation and glorification.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hil. 2.7.8 9.</note>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his humilia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on.</note>Q. <hi>What were the degrees of his humiliation?</hi>
+            </p>
+            <p>
+               <label>A.</label> Three, his incarnation; poor life, death and paſſion.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il 2.8.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 8.3.4.</note>Q. <hi>What did Chriſt in this eſtate?</hi>
+            </p>
+            <p>
+               <label>A.</label> He ſuffered and fulfilled whatſoever our nature was bound to.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orification.</note>Q.
+<hi>What were the degrees of his glorification?</hi>
+            </p>
+            <p>
+               <label>A.</label> Three alſo;<note n="a" place="margin">Acts 1.31.</note> his reſurrection,<note n="b" place="margin">Acts 1.9.</note> aſcenſion. and<note n="c" place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. 1.20.</note> ſitting at the right hand of his Father.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What hath Chriſt wrought by all theſe?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>demption.</note>
+               <hi>A.</hi> Our full Redemption, and doth ſtill make interceſſion for us.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eb. 7.25.</note>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ngly office.</hi>
+               </note>Q. <hi>What doth Chriſt as he in our King?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3. 35. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>urch.</hi>
+               </note>
+               <hi>A.</hi> He governs the Church, both viſible and inviſible, and ſhall be judge of the world.</p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ible.</hi>
+               </note>Q.
+<hi>What is the viſible Church?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t.
+13.47.</note>
+               <hi>A.</hi> A company of men profeſſing the worſhip of God.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>iſible.</note>
+               <hi>Q. What is the inviſible Church?</hi>
+            </p>
+            <p>
+               <label>A.</label> The number of the<note n="d" place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 2.9.</note> Elect, who have<note n="e" place="margin">Joh.
+13.7.</note> communion together; whether Mi<g ref="char:EOLhyphen"/>litant or Triumphant.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How doth Chriſt govern the viſible Church?</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:119503:5"/>A. Firſt, by a<note n="f" place="margin">Mat. 20.16.</note> generall calling of all;<note place="margin">Calling.</note> Secondly, by an<note n="g" place="margin">
+                  <hi>Job. 14.6.</hi> Preaching of the Word.</note> effectuall calling of the Elect, whereby the benefits of his mediation are applied to them.</p>
+            <p>
+               <hi>Q. By what means doth he apply theſe be<g ref="char:EOLhyphen"/>nefits to the Elect?</hi>
+            </p>
+            <p>
+               <label>A.</label> Ordinarily, by the outward<note n="h" place="margin">Rom. 10.17.</note> preach<g ref="char:EOLhyphen"/>ing of the Law and Goſpel,<note n="i" place="margin">Acts 16.14.</note> and the in<g ref="char:EOLhyphen"/>ward working of the Spirit.</p>
+            <p>
+               <hi>Q. What doth the Spirit work in them,</hi>
+               <note place="margin">Law.</note> 
+               <hi>by the preaching of the Law.</hi>
+            </p>
+            <p>
+               <label>A.</label> A.<note n="a" place="margin">Rom. 3.20. Rom. 7.7.</note> ſight of their ſinne and miſery, and<note n="b" place="margin">Rom. 7.10. Acts 2.37.</note> trouble of heart for it, whereby they are brought to<note n="c" place="margin">Gal. 3.24. <hi>Goſpel.</hi>
+               </note> ſee need of Chriſt.</p>
+            <p>
+               <hi>Q. What worketh it by the Goſpel?</hi>
+            </p>
+            <p>
+               <label>A.</label> An earneſt and conſtant<note n="d" place="margin">Luk. 15.19. Mar.
+9.24.</note> deſire of Chriſt, even till they can apply him.</p>
+            <p>
+               <hi>Q. What is that grace whereby we apply Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Juſtifying faith or believing, which is the firſt and main thing in the<note n="e" place="margin">Gal. 3.17. Acts 16.31. <hi>Faith.</hi> Joh. 1.12. 1 Joh. 5.10,
+11.</note> Covenant on our part.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is this faith?</hi>
+            </p>
+            <p>
+               <label>A.</label> It is ſuch a receiving of Chriſt, who is offered in the promiſes of the Goſpel, as whereby I come to be perſwaded, that all he hath done, is for me.</p>
+            <p>
+               <hi>Q. Which be the chief lets of faith?</hi>
+               <note place="margin">Lets of it.</note>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="f" place="margin">Mat. 4.16.</note> Want of the means, or<note n="g" place="margin">2 Cor. 4.4. Luk. 14.18, 19.</note> error in the uſe of them.</p>
+            <p>
+               <pb n="8" facs="tcp:119503:6"/>Q. <hi>Is the greateſt meaſure of faith wrought at the firſt?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Degrees.</hi> Luk. 17.5. Mat. 8.26.
+<hi>Companions.</hi>
+               </note>
+               <hi>A.</hi> No, but by degrees.</p>
+            <p>
+               <hi>Q. Which be thoſe graces or affections that accompany Faith, more or leſſe, as it is ſtronger or weaker?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="h" place="margin">Rom. 5.1.</note> Peace of conſcience,<note n="i" place="margin">Luk. 7.47.</note> love,<note n="k" place="margin">Acts. 8.39.</note> joy,<note n="l" place="margin">Pſal. 116.12.</note> thankfulneſſe,<note n="m" place="margin">Phil.
+1.23.</note> deſire of Gods preſence,<note n="n" place="margin">Rom. 5.4.
+<hi>Priviledges.</hi>
+               </note> hope, &amp;c.</p>
+            <p>
+               <hi>Q. What are thoſe benefits or priviledges that we receive by Faith in this life?</hi>
+            </p>
+            <p>
+               <label>A.</label> Three eſpecially; Iuſtification, Adop<g ref="char:EOLhyphen"/>tion, and Sanctification.</p>
+            <p>
+               <note place="margin">Iuſtification.</note>
+               <hi>Q. What is Juſtification?</hi>
+            </p>
+            <p>
+               <note place="margin">2 Cor. 5.21.</note>
+               <hi>A.</hi> It is that whereby God accounts us righteous through Chriſts merits.</p>
+            <p>
+               <hi>Q. How is that done?</hi>
+            </p>
+            <p>
+               <note place="margin">Rom. 5.19.</note>
+               <hi>A.</hi> By laying our ſin and puniſhment on him, and imputing his righteouſnes to us.</p>
+            <p>
+               <note place="margin">Adoption.</note>
+               <hi>Q. What is Adoption?</hi>
+            </p>
+            <p>
+               <note place="margin">Rom. 8.17.</note>
+               <hi>A.</hi> That whereby we are made the chil<g ref="char:EOLhyphen"/>dren of God, and heirs with Chriſt.</p>
+            <p>
+               <note place="margin">Sanctification.</note>
+               <hi>Q. What is ſanctification?</hi>
+            </p>
+            <p>
+               <label>A.</label> The purifying of our whole nature.</p>
+            <p>
+               <note place="margin">Tit. 3.5.</note>
+               <hi>Q. Which be the parts of it?</hi>
+            </p>
+            <p>
+               <note place="margin">Rom. 6.11.</note>
+               <hi>A.</hi> Mortifying and quickning.</p>
+            <p>
+               <hi>Q. How is our nature purified?</hi>
+            </p>
+            <p>
+               <note place="margin">1 Theſſ. 5.23. <hi>Of the ſoul,</hi>
+               </note>
+               <hi>A.</hi> Both in ſoul and body.</p>
+            <p>
+               <hi>Q. How the ſoul?</hi>
+            </p>
+            <p>
+               <label>A.</label> In the faculties of the<note n="o" place="margin">Eph. 4.23.</note> imagination.
+<pb n="9" facs="tcp:119503:6"/> 
+               <note n="p" place="margin">Pro. 2.5 9.</note>Underſtanding,<note n="q" place="margin">Acts. 24.16.</note> Conſcience, the Heart (which is the<note n="r" place="margin">Rom.
+7.18.</note> Will and<note n="ſ" place="margin">Gal. 5.21.</note> Affections) and the<note n="t" place="margin">Pſal. 19.16. <hi>Bodie.</hi> Rom. 6.13.</note> Memory,</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How the body?</hi>
+            </p>
+            <p>
+               <label>A.</label> The members thereof are made wea<g ref="char:EOLhyphen"/>pons of righteouſneſſe.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>But what is that grace that neceſſarily followeth all theſe in the beleever?</hi>
+            </p>
+            <p>
+               <label>A.</label> Repentance;<note place="margin">
+                  <hi>Repentance.</hi> Mark. 1.15.</note> which is the ſecond part of our Covenant.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is Repentance as it is here taken?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="b" place="margin">Gal. 5.6. 2 Cor. 5.14.</note> It is a fruit of faith, which from the feeling of Gods love, and<note n="c" place="margin">2 Cor. 6.9. <hi>New life.</hi>
+               </note> ſorrow for ſin, bringeth forth a<note n="d" place="margin">2 Cor. 5.17.</note> new life.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Wherein doth it conſiſt?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="e" place="margin">Eſay. 1.16.17.</note> Firſt, in the hatred and forſaking of all evill. Secondly, in an earneſt deſire to pleaſe God in all things, alwaies: which is our doing of<note n="f" place="margin">Acts. 26.20. <hi>Good workes.</hi> Exo.
+30.36.37.</note> good works.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Can we then do good works?</hi>
+            </p>
+            <p>
+               <label>A.</label> Not perfectly, but God accepts of them through Chriſt his interceſſion.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What rule have we to teach us,</hi>
+               <note place="margin">Rule of godlines</note>
+               <hi>what e<g ref="char:EOLhyphen"/>vill to leave, and good to do?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Law of God in the ten Comman<g ref="char:EOLhyphen"/>dements.<note place="margin">
+                  <hi>Law</hi> Exod. 20.1.</note>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many Tables is the Law divided into?</hi>
+            </p>
+            <p>
+               <label>A.</label> Two, the firſt,<note place="margin">Two Tables.</note> containing four Com<g ref="char:EOLhyphen"/>mandements, the other ſix.</p>
+            <p>
+               <pb n="10" facs="tcp:119503:7"/>
+               <note place="margin">
+                  <hi>Com.</hi> 1.</note>Q. <hi>What is the ſum of the</hi>
+1. <hi>Commandement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That we chuſe the true God for our God, and ſet our hearts upon him.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſum of the ſecond?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Com.</hi> 2.</note>
+               <hi>A.</hi> That we worſhip him only, and that with his own worſhip.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What the third?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Com.</hi> 3.</note>
+               <hi>A.</hi> That we uſe his Name reverently at all times, as well as in his ſolemn worſhip.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What the fourth?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Com.</hi> 4.</note>
+               <hi>A.</hi> That we worſhip him more ſpecially on the Sabbath.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſum of the ſecond Table?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Com.</hi> 5.6, 7, 8, 9, 10.</note>
+               <hi>A.</hi> That we maintain our neighbours and our own, 5. Dignity. 6. Life. 7. Chaſtity, 8. goods, 9. good-name; yea, even in our, 10. firſt thoughts.</p>
+            <p>
+               <note place="margin">Helps of godli<g ref="char:EOLhyphen"/>neſſe.</note>Q. <hi>What helps and means have we to grow in godlineſſe?</hi>
+            </p>
+            <p>
+               <label>A.</label> Many both publick and private.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Which be the publick?</hi>
+            </p>
+            <p>
+               <note place="margin">Publick.</note>
+               <hi>A.</hi> Either extraordinarie, as holy<note n="a" place="margin">Heſt. 4.16.</note> Faſt<g ref="char:EOLhyphen"/>ing and<note n="b" place="margin">2 Chr. 20.26.</note> Feaſting, or ordinary, as the uſe of the Word preached<note n="d" place="margin">Deu.
+31.11.</note> and read, the Sacra<g ref="char:EOLhyphen"/>ments,<note n="c" place="margin">Neh. 8.4.</note> prayer and<note n="e" place="margin">Mat. 18.15, 16, 17.</note> diſcipline.</p>
+            <p>
+               <hi>Q. What are the Sacraments?</hi>
+            </p>
+            <p>
+               <label>A.</label> The viſible ſigns and ſeals of the Co<g ref="char:EOLhyphen"/>venant, ordained of God to repreſent and confirm the ſame unto us.</p>
+            <p>
+               <note place="margin">
+                  <hi>Sacrments.</hi> Rom. 4.11.</note>Q. <hi>How many Sacr. are there in the Goſpel?</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:119503:7"/>
+               <hi>A.</hi>
+               <note n="a" place="margin">1 Cor. 11.2, 3.</note> Two only, Baptiſme, and the Lords Supper, as under the Law were<note n="b" place="margin">Gen. 17.10.</note> Circum<g ref="char:EOLhyphen"/>ciſion and the<note n="c" place="margin">Exod. 12.11.</note> Paſſeover.</p>
+            <p>
+               <hi>Q. What is Baptiſme?</hi>
+               <note place="margin">
+                  <hi>Baptiſme.</hi> Cal. 3.23.</note>
+            </p>
+            <p>
+               <label>A.</label> A Sacrament of our new birth, or entrance into the ſtate of Grace.</p>
+            <p>
+               <hi>Q. What is the Lords Supper?</hi>
+               <note place="margin">
+                  <hi>Lords Supper.</hi> 1 Cor. 10.16. 1 Cor. 1.26.</note>
+            </p>
+            <p>
+               <label>A.</label> A Sacrament of our growth and in<g ref="char:EOLhyphen"/>creaſe in Grace.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is Prayer?</hi>
+               <note place="margin">
+                  <hi>Prayer.</hi> 1 Joh.
+5.14.</note>
+            </p>
+            <p>
+               <label>A.</label> It is a calling upon God only, in the Name of Chriſt.</p>
+            <p>
+               <hi>Q. How many parts of prayer are there?</hi>
+            </p>
+            <p>
+               <label>A.</label> 3. Confeſſion, Petition, &amp; thankſgiving.</p>
+            <p>
+               <hi>Q. What pattern of prayer have we?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Lords Prayer.<note place="margin">
+                  <hi>Lords Prayer.</hi> Math.
+6.9.</note>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many things are to be conſidered in this prayer?</hi>
+               <note place="margin">Parts of it.</note>
+            </p>
+            <p>
+               <label>A.</label> Three, the Preface, the Prayer it ſelf, and the concluſion.</p>
+            <p>
+               <hi>Q. For the Prayer it ſelf,</hi>
+               <note place="margin">Petitions,</note> 
+               <hi>how many peti<g ref="char:EOLhyphen"/>tions are in it?</hi>
+            </p>
+            <p>
+               <label>A.</label> Six, three concerning Gods Glory, and three for our own neceſſities.</p>
+            <p>
+               <hi>Q. What learn we by this Prayer?</hi>
+            </p>
+            <p>
+               <label>A.</label> Both what we ſhould pray for, &amp; how, namely, with preparation, faith, love,<note place="margin">Private helps.</note> reve<g ref="char:EOLhyphen"/>rence, zeal, confidence, and continuance.</p>
+            <p>
+               <hi>Q. Which be the private helps?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note n="a" place="margin">Gen. 21.63.</note> Private prayer,<note n="b" place="margin">Deut. 17.19.</note> reading,<note n="c" place="margin">Gen. 18, 7.1.</note> family-exerciſe,
+<pb n="12" facs="tcp:119503:8" rendition="simple:additions"/> and the reſt.</p>
+            <p>
+               <hi>Q. Which be the lets of a godly life?</hi>
+            </p>
+            <p>
+               <note place="margin">Lets of godlines.</note>
+               <hi>A.</hi> They are many: but for the moſt part, they are either from the<note n="d" place="margin">Rev. 2.4, 5, <hi>Falls.</hi>
+               </note> weakening of faith, or the neglect of the meanes.</p>
+            <p>
+               <hi>Q. But what if a true Chriſtian fall into ſin after he hath repented?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Renewed repen<g ref="char:EOLhyphen"/>tance.</hi> 2 Cor. 7.8, 9, 10.11. <hi>Perſeverance.</hi> Phil. 1.6.</note>
+               <hi>A.</hi> He muſt then renew his Repentance, and Covenant with God.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>But may he not fall finally?</hi>
+            </p>
+            <p>
+               <label>A.</label> No, for he hath promiſe of perſeve<g ref="char:EOLhyphen"/>rance,</p>
+            <p>
+               <hi>The fourth estate of immortality?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Death.</hi> Ecc. 12.9. <hi>Iudgement,</hi>
+               </note>Q. <hi>What becomes of a man at his death?</hi>
+            </p>
+            <p>
+               <label>A.</label> The body goeth to the grave, the ſoul to the place therof, till the Iudgment.</p>
+            <p>
+               <note place="margin">
+                  <hi>Iudge.</hi> 2 Tim. 4.1. 1 Cor. 15.25.</note>Q. <hi>Who ſhall be the Iudge of the world?</hi>
+            </p>
+            <p>
+               <label>A.</label> Chriſt, for it is the laſt part of his Kingly office.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What ſhall be the preparation to the Judgement?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Reſurrection.</hi> Acts. 24.15. 1 Cor. 15.</note>
+               <hi>A.</hi> The Reſurrection of the dead, and change of the living.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What ſhall then be the eſtate of the godly?</hi>
+            </p>
+            <p>
+               <note place="margin">Mat. 25.48. <hi>Eternall life and death.</hi> Math. 25.46.</note>
+               <hi>A.</hi> Eternall life in Glory.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What ſhall be the eſtate of the wicked?</hi>
+            </p>
+            <p>
+               <label>A.</label> Everlaſting damnation.</p>
+            <q>
+               <bibl>
+                  <hi>Reve. 20. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </bibl>
+               <p>Bleſſed and holy is he that hath part in the firſt Reſur<g ref="char:EOLhyphen"/>rection: for on ſuch the ſecond death hath to power.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119503:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
